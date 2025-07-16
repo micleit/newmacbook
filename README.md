@@ -9,3 +9,5 @@ vim
 plash
 raycast
 homebrew
+oh-my-zsh
+muttwizard
