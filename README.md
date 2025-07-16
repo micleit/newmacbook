@@ -8,3 +8,4 @@ lvim
 vim
 plash
 raycast
+homebrew
