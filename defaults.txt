@@ -1,0 +1,314 @@
+{
+    autohide = 1;
+    "autohide-delay" = 1000;
+    enterMissionControlByTopWindowDrag = 0;
+    "last-analytics-stamp" =     (
+        "780973116.755794"
+    );
+    lastShowIndicatorTime = "780955535.764029";
+    loc = "en_US:US";
+    "mod-count" = 672;
+    "mru-spaces" = 0;
+    "no-bouncing" = 1;
+    "persistent-apps" =     (
+                {
+            GUID = 723129582;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.apps.launcher";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Apps.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Apps;
+                "file-mod-date" = 3840246949;
+                "file-type" = 169;
+                "is-beta" = 0;
+                "parent-mod-date" = 3840246949;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436939;
+            "tile-data" =             {
+                book = {length = 1120, bytes = 0x626f6f6b 60040000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Safari";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Safari;
+                "file-mod-date" = 3829174567;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829174567;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436961;
+            "tile-data" =             {
+                book = {length = 568, bytes = 0x626f6f6b 38020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "org.mozilla.firefox";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Firefox.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Firefox;
+                "file-mod-date" = 3837329612;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 235398110712562;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436940;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.MobileSMS";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Messages.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Messages;
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436941;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.mail";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Mail.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Mail;
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436942;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Maps";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Maps.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Maps;
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436943;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Photos";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Photos.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Photos;
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436948;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Notes";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Notes.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Notes;
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436956;
+            "tile-data" =             {
+                book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.AppStore";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/App%20Store.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "App Store";
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436957;
+            "tile-data" =             {
+                book = {length = 588, bytes = 0x626f6f6b 4c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.systempreferences";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/System%20Settings.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "System Settings";
+                "file-mod-date" = 3835746812;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3835746812;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3013436959;
+            "tile-data" =             {
+                book = {length = 588, bytes = 0x626f6f6b 4c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.ScreenContinuity";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/iPhone%20Mirroring.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "iPhone Mirroring";
+                "file-mod-date" = 3829181962;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3829181962;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2517274494;
+            "tile-data" =             {
+                book = {length = 560, bytes = 0x626f6f6b 30020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.if.Amphetamine";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Amphetamine.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Amphetamine;
+                "file-mod-date" = 113807586575136;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 169539085945589;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    "persistent-others" =     (
+                {
+            GUID = 3013436958;
+            "tile-data" =             {
+                arrangement = 2;
+                book = {length = 652, bytes = 0x626f6f6b 8c020000 00000410 30000000 ... 04000000 00000000 };
+                displayas = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/mic/Downloads/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Downloads;
+                "file-mod-date" = 123574342192570;
+                "file-type" = 2;
+                "is-beta" = 0;
+                "parent-mod-date" = 222448784313795;
+                preferreditemsize = "-1";
+                showas = 1;
+            };
+            "tile-type" = "directory-tile";
+        }
+    );
+    "recent-apps" =     (
+                {
+            GUID = 2352315825;
+            "tile-data" =             {
+                book = {length = 632, bytes = 0x626f6f6b 78020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.ActivityMonitor";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Utilities/Activity%20Monitor.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Activity Monitor";
+                "file-mod-date" = 3840246949;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 3840246949;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2352315835;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "net.kovidgoyal.kitty";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/kitty.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = kitty;
+                "file-mod-date" = 3842132626;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 51375946002228;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2352315851;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "net.kovidgoyal.kitty";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/kitty.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = kitty;
+                "file-mod-date" = 3842132626;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 180255029672553;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    region = US;
+    showMissionControlGestureEnabled = 1;
+    "trash-full" = 1;
+    version = 1;
+    "wvous-br-corner" = 14;
+}

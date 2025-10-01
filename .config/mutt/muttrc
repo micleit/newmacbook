@@ -1,0 +1,8 @@
+# vim: filetype=neomuttrc
+source /usr/local/share/mutt-wizard/mutt-wizard.muttrc
+source /Users/mic/.config/mutt/accounts/micah.leiterman@gmail.com.muttrc
+macro index,pager i1 '<sync-mailbox><enter-command>source /Users/mic/.config/mutt/accounts/micah.leiterman@gmail.com.muttrc<enter><change-folder>!<enter>;<check-stats>' "switch to micah.leiterman@gmail.com"
+
+set header_cache_backend = "lmdb"
+bind index d delete-message
+bind index,pager,browser D half-down

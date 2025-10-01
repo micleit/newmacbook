@@ -1,0 +1,49 @@
+Adobe Photoshop 2025
+Amphetamine.app
+BambuStudio.app
+Bitwarden.app
+boringNotch.app
+Final Cut Pro Trial.app
+Firefox.app
+Flow.app
+Folx.app
+GarageBand.app
+GCAdapterDriver.app
+GIMP.app
+Google Chrome.app
+Hidden Bar.app
+iMovie.app
+index.html
+Karabiner-Elements.app
+Karabiner-EventViewer.app
+Keynote.app
+kitty.app
+LuLu.app
+Microsoft Defender Shim.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Teams.app
+Microsoft Word.app
+Nextcloud.app
+Nicotine+.app
+Notion Calendar.app
+Notion.app
+Numbers.app
+OneDrive.app
+Pages.app
+Plash.app
+Private Internet Access.app
+Raycast.app
+Safari.app
+Shortcat.app
+Sideloadly.app
+Slippi Launcher.app
+Spotify.app
+Steam.app
+Tailscale.app
+Utilities
+Visual Studio Code.app
+VLC.app
+YouTube to MP3.app
