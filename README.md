@@ -1,14 +1,1 @@
-# daily use:
-firefox  
-homebrew  
-sketchybar  
-skhd  
-yabai  
-neomutt  
-lvim  
-vim  
-plash  
-raycast   
-oh-my-zsh  
-muttwizard  
-## config files on gdrive 
+# the following are my m4 macbook pro's dotfiles
